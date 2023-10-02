@@ -1,0 +1,6 @@
+name: PokemonParticle
+main: cc.zoyn.pp.PokemonParticle
+version: 1.0
+author: Zoyn
+commands:
+  pp:
